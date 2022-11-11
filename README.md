@@ -30,7 +30,7 @@ Página de Editar Redes Sociais
 - Cadastrar Links
 - Listagem dos Links
 - Deletar Links
-- Cadastrar redes sociais
+- Editar redes sociais
 - Rotas com React Router Dom
 - Banco de Dados e autenticação feita com Firebase
 
