@@ -11,9 +11,10 @@ Projeto de Links pessoais, que desenvolvi durante o evento (Semana React) do can
 ### Funcionalidades :checkered_flag:
 
 - Autenticação de usuário
-- Cadastro de Links
+- Cadastrar Links
 - Listagem dos Links
-- Cadastro de redes sociais
+- Deletar Links
+- Cadastrar redes sociais
 - Rotas com React Router Dom
 - Banco de Dados e autenticação feita com Firebase
 
@@ -26,7 +27,7 @@ Projeto de Links pessoais, que desenvolvi durante o evento (Semana React) do can
 No terminal, clone o projeto: 
 
 ```
-git clone 
+git clone https://github.com/BrunoMonteiro25/devlink.git
 ```
 
 Entre na pasta do projeto:  
