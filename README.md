@@ -18,7 +18,7 @@ Mensagem caso o Login ou Senha estejam errados
 ![mensagem](https://user-images.githubusercontent.com/98993736/201415113-8f669533-8abf-4346-8804-9bbb5e781327.png)
 
 Página admin, para Cadastrar e Deletar Links
-![cadastrar-e-deletar-links](https://user-images.githubusercontent.com/98993736/201415244-2d04874d-5d17-4f00-8e8a-95a09166e00a.png)
+![cadastrar-e-deletar-links](https://user-images.githubusercontent.com/98993736/201416311-7d5b6838-5311-4f54-a332-2d2949341ea2.png)
 
 Página de Editar Redes Sociais
 ![editar-redes-sociais](https://user-images.githubusercontent.com/98993736/201415335-3e13389f-f1ff-4cbf-b4c5-6078f0912b32.png)
