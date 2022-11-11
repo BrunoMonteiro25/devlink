@@ -1,7 +1,7 @@
 ## Dev Link
 ReactJS + Firebase
 
-[Funcionalidades](#funcionalidades-checkered_flag) | [Tecnologias](#tecnologias-computer) | [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+[Funcionalidades](#funcionalidades-checkered_flag) | [Tecnologias](#tecnologias-computer) 
 ##
 
 ### Descrição do Projeto :star:
@@ -22,30 +22,3 @@ Projeto de Links pessoais, que desenvolvi durante o evento (Semana React) do can
 
 - HTML5, CSS3, JavaScript, ReactJS, Firebase
 
-### Como rodar a aplicação :arrow_forward:
-
-No terminal, clone o projeto: 
-
-```
-git clone https://github.com/BrunoMonteiro25/devlink.git
-```
-
-Entre na pasta do projeto:  
-
-```
-cd devlink
-```
-
-Instale as dependecias:
-
-```
-npm install
-```
-
-Execute a aplicação:
-
-```
-npm start
-```
-
-Pronto, agora é possível acessar a aplicação a partir da rota http://localhost:3000/ 
