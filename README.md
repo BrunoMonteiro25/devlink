@@ -6,7 +6,7 @@ ReactJS + Firebase
 
 ### Descrição do Projeto :star:
 
-Projeto de Links pessoais, que desenvolvi durante o evento (Semana React) do canal do youtube (Sujeito Programador)
+Projeto de Links pessoais, que desenvolvi durante o evento (Semana React) do canal do youtube (Sujeito Programador).
 
 Página inicial
 ![meus-links](https://user-images.githubusercontent.com/98993736/201413869-55eb1231-488a-452a-9172-cb0309a2d2cd.png)
